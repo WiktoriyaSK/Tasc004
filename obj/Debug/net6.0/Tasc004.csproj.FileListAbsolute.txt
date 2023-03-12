@@ -1,0 +1,15 @@
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.csproj.AssemblyReference.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.AssemblyInfoInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.AssemblyInfo.cs
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.csproj.CoreCompileInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\bin\Debug\net6.0\Tasc004.exe
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\bin\Debug\net6.0\Tasc004.deps.json
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\bin\Debug\net6.0\Tasc004.runtimeconfig.json
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\bin\Debug\net6.0\Tasc004.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\bin\Debug\net6.0\Tasc004.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\refint\Tasc004.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\Tasc004.genruntimeconfig.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Examles004\Tasc004\obj\Debug\net6.0\ref\Tasc004.dll
