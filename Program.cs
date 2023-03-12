@@ -1,20 +1,29 @@
-﻿// Ex007Main();
+﻿//Задача 25:
+//Напишите метод, который принимает на вход 
+//два числа (A и B) и возводит число A в 
+//натуральную степень B.
+//3, 5 -> 243 (3⁵);   
+//2, 4 -> 16   
+
+int numberA = ReadInt("Введите число: ");
+int numberB = ReadInt("Введите степень: ");
+ToDegree(numberA, numberB);
 
 
-int GetSideCube()
+// Функция возведения в степень
+void ToDegree(int a, int b)
 {
-    return Random.Shared.Next(0, 6);
+    int result = 1;
+    for (int i = 1; i <= b; i++)
+    {
+        result = result * a;
+    }
+    Console.WriteLine(a + " в степени " + b + " = " + result);
 }
 
-int GetSideCube2()
+// Функция ввода
+int ReadInt(string message)
 {
-    int value = Random.Shared.Next(0, 6);
-    if (value <= 1) return Random.Shared.Next(0, 6);
-    else return Random.Shared.Next(0, 5);
+    Console.WriteLine(message);
+    return Convert.ToInt32(Console.ReadLine());
 }
-
-int[] tr = new int[6];
-double n = 100;
-for (int i = 0; i < n; i++) tr[GetSideCube2()]++;
-
-Console.WriteLine(String.Join(' ', tr.Select(i=> (i / n)* 100)));
